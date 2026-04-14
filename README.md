@@ -28,5 +28,5 @@ Full-stack puzzle and game platform using React, Node.js, Express.js, and SQL. I
 ## 📫 Contact
  
 - Email: kolbebauer54@gmail.com
-- LinkedIn: [linkedin.com/in/kolbebauer](linkedin.com/in/kolbebauer)
+- LinkedIn: [linkedin.com/in/kolbebauer](www.linkedin.com/in/kolbe-bauer-010505293)
  
