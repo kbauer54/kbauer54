@@ -8,7 +8,7 @@ Computer Science student at Winona State University with a focus on full-stack d
  
 **Languages:** Java, Python, SQL, PHP, HTML/CSS, JavaScript  
 **Databases:** MySQL, schema design, normalization, ERD modeling  
-**Tools:** Git, VS Code, TablePlus, MySQL Workbench, Apache, Railway, draw.io  
+**Tools:** Git, VS Code, TablePlus, MySQL Workbench, Apache, Railway, draw.io, IntelliJ, PyCharm 
  
 ---
  
